@@ -44,3 +44,28 @@ The committee currently consists of the following people:
     %}
 {% endfor %}
 </ul>
+
+## Proposal Reviewers
+
+|-------|--------|---------|
+| Abdullah Hussein | Adam Hill | Akash Tandon |
+| Alan Baldwin | Alex Adamson | Alexander Hendorf |
+| Anders Bogsnes | Anita Yip | Arnav Arora |
+| Athanasios Kostopoulos | Benjamin Batorsky | Cesar Hernandez |
+| Christos Christodoulou | Claire Allred | Daniyah Aldawsari |
+| Diego Torres Quintanilla | Elaine Wong | Gajendra Deshpande |
+| Hannah Aizenman | Ian Knopke | Inko Elgezua |
+| Jane Adams | Jerome basdevant | Josh Seltzer |
+| Kalyan Prasad | Kaushik Hatti | Laion Azeredo |
+| Laura Mitchell | Marcin Abram | Marco Bonzanini |
+| Marius van Niekerk | Matias Valdenegro | Matthijs Brouns |
+| Matti Lyra | Nicole Carlson | Noa Shinitski |
+| None None | Ole Schulz-Trieglaff | Paul Butler |
+| Philipp Pahl | Psalms Kalu | Ray Johns |
+| Ricardo Manhães Savii | Robin Kiplangat | Sachin Nandakumar |
+| Sanket Verma | Santhanam Sivasurya | Sanusi Lawal |
+| Sebastian Neubauer | Shagun Sodhani | Sharon Morris |
+| Sophie Chauvin | Sophie Jentzsch | Tan Nian Wei |
+| Tania Vasilikioti | Thomas Caswell | Valery Calderon Briz |
+| Vincent D. Warmerdam | Vissarion Fisikopoulos | Nidhin Pattaniyil |
+| | Shekhar Koirala | |

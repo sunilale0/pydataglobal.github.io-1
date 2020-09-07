@@ -5,6 +5,13 @@
   website_url: https://sunilale0.github.io
   image: /assets/images/organizers/sunil_ale.jpg
 
+- name: Arnav Arora
+  desc: Arnav is an Applied Research Scientist at Factmata and a NLP Master's student at the University of Copenhagen. He likes to try new things and fail miserably at them.
+  linkedin_url: https://www.linkedin.com/in/arnav-arora/
+  github_url: https://github.com/keratin7
+  twitter_url: https://twitter.com/arrrnav
+  image: /assets/images/organizers/arnav_arora.jpg
+
 - name: Marco Bonzanini
   desc: Marco is a Data Science consultant and trainer based in London (UK), organiser of PyData London
   twitter_url: https://twitter.com/marcobonzanini
@@ -90,6 +97,13 @@
   github_url: https://github.com/mrkazmi333
   image: /assets/images/organizers/motasim_kazmi.jpg
 
+- name: AJ Khan
+  desc: Automation Engineer @ Dega Systems, Organizer @ The New York Python Meetup, and always up to solve problems with tech.
+  linkedin_url: https://www.linkedin.com/in/akhan22/
+  image: /assets/images/organizers/aj_khan.jpg
+  github_url: https://github.com/ak9999
+  website_url: https://blog.ajkhan.me/
+
 - name: Rakshit Kharbanda
   desc: Rakshit Kharbanda is an undergrad pursuing Bachelors of Technology in Electronics. He is a Tech-Enthusiast who takes a keen interest in Robotics & Designing.
   linkedin_url: https://www.linkedin.com/in/rakshit-kharbanda-a4a420187
@@ -144,3 +158,7 @@
   desc: Nancy works at CVS Health, where she serves as a product manager and strategist to utilize data to shift people’s behaviors and make members healthier. In her free time, she enjoys traveling (not during a pandemic), learning, and watching sports.
   linkedin_url: https://www.linkedin.com/in/nancyw19/
   image: /assets/images/organizers/nancy_w.jpg
+
+
+
+
